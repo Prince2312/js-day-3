@@ -1,4 +1,5 @@
 // data types
+
 // two type
 // Primitive and non primitive
 
